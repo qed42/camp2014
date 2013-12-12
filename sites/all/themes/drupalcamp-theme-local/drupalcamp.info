@@ -1,0 +1,22 @@
+name = DrupalCamp
+description = Tema de demostracion para el DrupalCamp 2013
+core = 7.x
+engine = phptemplate
+
+regions[header] = Header
+regions[sidebar_first] = Right sidebar
+regions[content] = Content
+regions[footer] = Footer
+
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/bootstrap-theme.min.css
+stylesheets[all][] = css/main.css
+
+
+
+scripts[] = js/bootstrap.min.js
+scripts[] = js/app.js
+
+features[] = logo
+features[] = name
+features[] = main_menu
