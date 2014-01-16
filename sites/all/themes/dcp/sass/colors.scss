@@ -1,0 +1,56 @@
+@import "utils";
+@import "susy";
+
+body {
+	color: #111111;
+}
+
+body a{
+	color: #425479;
+}
+.l-page { background: #ffffff; }
+.header-userbar.wrapper { 
+	@include at-breakpoint($desk) {
+		background: #e5e5e5;
+		border-bottom: 1px #ccc solid;
+	}
+}
+.userbar a { color: #000000; }
+.header-insightmenu.wrapper { 
+	background: url(../images/mobile-menu.png) no-repeat;
+	@include at-breakpoint($desk){
+		background: #166688; 
+	}
+}
+.insightmenu > div > nav > ul.menu {background: #166688;}
+.insightmenu a{ color: #ffffef; }
+.footertop.wrapper {
+	@include at-breakpoint($tab){
+		border-top: 4px #166688 solid;
+		background: #e5e5e4;
+	}
+}
+.footerbottom.wrapper { background: #166687; }
+
+#footerbottom {
+	.pane-block {
+		color: #5f5f5f;
+		h2.pane-title a{ color: #425478; }
+		.menu li, 
+		.menu li a{ color: #425478; }
+	}
+	.panel-col-last p { color: #5f5f5f; }
+}
+
+
+#footertop {
+	.pane-block {
+		color: #5f5f5f;
+		h2.pane-title a{ color: #425478; }
+		.menu li, 
+		.menu li a{ color: #425478; }
+	}
+	.panel-col-last p { color: #5f5f5f; }
+}
+#footerbottom .second-logo { color: #fffffe; }
+

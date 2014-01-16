@@ -1,0 +1,16 @@
+<?php 
+/**
+ * @file
+ * Panels Omega 12 Col Layouts
+ *
+ */
+
+ /**
+ * Implementation of hook_ctools_plugin_directory().
+ *
+ */
+function panels_omega_12col_layouts_ctools_plugin_directory($owner, $plugin_type) {
+  if ($owner == 'panels' && $plugin_type == 'layouts') {
+    return "plugins/$plugin_type";
+  }
+}

@@ -120,3 +120,20 @@ fieldset[disabled] input[type="submit"].active {
   padding: 2em 0;
   margin-top: 6em;
 }
+
+/*============Home page==================*/
+#header {
+  background: #0E383D;
+}
+
+#branding {
+  float: left;
+  margin: 0;
+  width: 100%;
+}
+#site-name {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+  width: 100%;
+}

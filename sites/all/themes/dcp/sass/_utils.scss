@@ -1,0 +1,95 @@
+/*******************************************************************************
+ * _utils.scss
+ *
+ * Sass offers come very useful features, these include variables functions and
+ * mixins. Extensions such as Compass and Susy can also be used to provide extra
+ * functions and mixins to be used throughout the theme. This file acts as a
+ * single place for defining these things, which can then be accessed by
+ * importing _utils.scss where required. The following should be defined in this
+ * file:
+ * - Custom Sass mixins for the theme.
+ * - Custom Sass functions for the theme.
+ * - Overriding the default variables provided by extensions such as Compass.
+ * - Defining new variables for:
+ *      - Colors.
+ *      - Font sizes and families.
+ *      - Layout and grid sizing.
+ ******************************************************************************/
+// Colors
+
+$blue: #1c8fc5;
+$orange: #f26c4f;
+$light-blue: #00bff3;
+$dark-grey: #3f3f3f;
+$black: #000;
+$text-black: #474747;
+$text-light-black: #707070;
+
+
+
+// Susy Variables
+
+// Set consistent vertical and horizontal spacing units.
+$vert-spacing-unit: 20px;
+$horz-spacing-unit: 1em;
+
+// Define Susy grid variables mobile first.
+$total-columns: 4;
+$column-width: 4em;
+$gutter-width: $horz-spacing-unit;
+$grid-padding: 5px;
+
+$container-style: magic;
+$container-width: 980px;
+
+// Susy Media Layouts @see http://susy.oddbird.net/guides/reference/#ref-media-layouts
+$tab: 44em 12; // At 44em use 12 columns.
+$desk: 60em 16; // At 70em use 16 columns.
+$landscape: 47em 12;
+
+// Font sizes and families
+
+// p font family - Arial
+// Headings font family - Trebuchet MS
+
+// mixins
+@mixin gradient($startColor:$white, $endColor:$gray-2) {
+  background:$startColor; // fallback
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{ie-hex-str($startColor)}', endColorstr='#{ie-hex-str($endColor)}',GradientType=0 ); // IE 6-8
+  background:-ms-linear-gradient(top, $startColor 0%, $endColor 100%); // IE 10+
+  background:-o-linear-gradient(top, $startColor 0%, $endColor 100%); // Opera
+  background:-moz-linear-gradient(top, $startColor 0%, $endColor 100%); // Firefox
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, $startColor), color-stop(100%, $endColor));  // Webkit (Safari, Chrome, other)
+  background:-webkit-linear-gradient(top, $startColor 0%, $endColor 100%);  // Webkit (Safari, Chrome, other)
+  background:linear-gradient(to bottom, $startColor 0%, $endColor 100%);
+}
+
+
+@mixin transition($transition:all 0.2s) {
+  -ms-transition:$transition; // IE10+
+  -o-transition:$transition; // Opera
+  -moz-transition:$transition; // Firefox
+  -webkit-transition:$transition; // Webkit (Safari, Chrome, other)
+  transition:$transition;
+}
+
+@mixin rounded($radius:4px) {
+  -ms-border-radius:$radius; // IE10+
+  -o-border-radius:$radius; // Opera
+  -moz-border-radius:$radius; // Firefox
+  -webkit-border-radius:$radius; // Webkit (Safari, Chrome, other)
+  border-radius:$radius;
+}
+
+@mixin box-shadow($top, $left, $blur, $color, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow:inset $top $left $blur $color;
+    -moz-box-shadow:inset $top $left $blur $color;
+    box-shadow:inset $top $left $blur $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $color;
+    -moz-box-shadow: $top $left $blur $color;
+    box-shadow: $top $left $blur $color;
+  }
+}
+

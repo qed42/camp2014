@@ -1,0 +1,5 @@
+name = "Panels Omega 12-Column Layouts"
+description = "A module that defines a variety of Omega based, 12 column layouts."
+core = "7.x"
+package = "Insights Layout"
+version = "7.x-1.x"

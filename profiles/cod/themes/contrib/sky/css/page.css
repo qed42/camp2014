@@ -44,7 +44,7 @@ div.messages {
 }
 
 h1#site-name { /* 48px */
-  font-size: 3.692em;
+  font-size: 2.692em;
   margin: 0 0 0.2em 0;
   padding: 0;
 }
@@ -240,3 +240,166 @@ div.messages {
 .popout { background-position: 0 -264px; }
 .search { background-position: 0 -330px; }
 .x { background-position: 0 -396px;}
+#header {
+  background: #0E383D;
+}
+
+#branding {
+  float: none;
+  margin: 0 auto;
+  width: 100%;
+}
+#site-name {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+  width: 100%;
+}
+h1#site-name a {
+  color: #fff !important;
+}
+
+#page > header {
+  padding: 0;
+  position:fixed;
+  top:0px;
+  left:0px;
+  width:100%;
+  z-index : 1;
+}
+#main-content,
+.block-inner, 
+.block-panels-mini > .block-title {
+	margin-left: 0;
+	margin-right: 0;
+}
+#content .panel-display, 
+#content .panel-flexible {
+	margin-left: 0;
+	margin-right: 0;
+}
+h2.pane-title {
+  color: #fff;
+  font-size: 16px;
+  padding: 15px;
+  margin: 0;
+  background: #0E383D;
+  font-weight:bold;
+  text-transform: uppercase;
+  -webkit-border-radius: 10px;
+     -moz-border-radius: 10px;
+       -o-border-radius: 10px;
+          border-radius: 10px;
+}
+.block-content {
+  padding: 20px;
+}
+#main-content {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#content-column {
+  margin-top: 0;
+}
+
+.columns-inner {
+  padding-top: 0;
+}
+
+.center-wrapper {
+  display: table;
+  width: 90%;
+  margin: 0 auto;
+}
+.center-wrapper .panel-panel .inside{
+  background: rgba(255,255,255,1);
+  height: 420px;
+}
+#page {
+  background: #f7f7f7;
+}
+.pane-block-1 .block-content { padding:0; }
+
+#name-and-slogan {
+  width: 90%;
+  margin: 0 auto;
+}
+#columns {
+  background-color: #ffffff;
+}
+/*=============================*/
+
+.content-banner {
+  position:relative;
+}
+
+.welcome{
+  position: absolute;
+  top:33%;
+  left:10%;
+  width:80%
+}
+h2.welcome-title,
+h3.welcome-title{
+  font-size:50px;
+  margin-top:0;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+}
+h2.welcome-title {font-size: 25px;}
+h3.welcome-title{
+  margin-bottom:2px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+  font-size : 6em;  
+}
+.banner-image img {height:480px;}
+@media only screen and (max-width:360px){
+  .region-featured .welcome{
+    width:100%;
+    left:0;
+  }
+  .volunteer{
+    margin:.5em;
+  }
+}
+@media only screen and (max-width:480px){
+  .volunteer{
+    margin-top:.5em;
+    padding:.35em .5em;
+    font-size:95%;
+    font-weight:normal;
+  }
+}
+.volunteer{
+  margin-top:3em;
+  font-weight:bold;
+  background: rgba(255,255,255,0.5);
+  padding:.75em;
+}
+/*Footer Css */
+#page > footer {
+text-align : center;
+}
+#page > footer .menu{
+display:inline-block;
+}
+#page > footer .menu li{
+list-stye : none;
+display:inline-block;
+float:left;
+padding : 0px 10px;
+border-right : 2px solid #126598;
+}
+#page > footer .menu li.last{
+border-right : 0px;
+}
+#page > footer .menu a{
+font-weight: bold;
+color : white;
+}
