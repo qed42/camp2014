@@ -1,7 +1,7 @@
 (function ($) {
   $(document).ready(function() {
-    if($(window).width() <= 400 ){
-      $('.navigation-menu').click(function(){
+    $('.navigation-menu').click(function(){
+      if($(window).width() < '600' ){
         if($(this).hasClass('hover-menu')){
           $(this).removeClass('hover-menu');
           $(this).removeClass('close-menu');
@@ -9,7 +9,7 @@
           $(this).addClass('hover-menu');
           $(this).addClass('close-menu');
         }
-      });
-    }
+      }
+    });
   });
 })(jQuery);
