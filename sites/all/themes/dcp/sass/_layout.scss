@@ -48,8 +48,8 @@ ul {
 
 .at-panel{
 	@include container; 
-	max-width: 980px;
-	_width: 980px;
+	max-width: 1220px;
+	_width: 1220px;
 	// @include susy-grid-background;
 	.region-two-66-33-top,
 	.region-two-66-33-first,
@@ -80,8 +80,8 @@ ul {
   }
   .at-panel {
 		@include container; 
-		max-width: 980px;
-		_width: 980px;
+		max-width: 1220px;
+		_width: 1220px;
 		// @include susy-grid-background;
 		.region-two-66-33-top,
 		.region-two-66-33-bottom {
