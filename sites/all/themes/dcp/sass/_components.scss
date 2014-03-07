@@ -1,3 +1,8 @@
+
+//========================================
+//           HOME PAGE
+//========================================
+
 #content {
 	.section{
 		width:100%;
@@ -10,6 +15,25 @@
 		}
 	}
 }
+
+@include at-breakpoint($tab){
+	.section {
+		width: 85%;
+		margin: 0 auto;
+	}
+}
+// header 
+
+.main-header{
+	height: 75px;
+}
+
+@include at-breakpoint($desk){
+	.main-header{
+		float: left;
+	}
+}
+
 #logo{
 	display: none;
 }
@@ -18,79 +42,6 @@
 		display: block;
 	}
 }
-
-.main-header{
-	height: 75px;
-}
-
-
-@include at-breakpoint($tab){
-	.section {
-		width: 85%;
-		margin: 0 auto;
-	}
-}
-
-
-@include at-breakpoint($desk){
-	.main-header{
-		float: left;
-	}
-}
-#main-menu{
-	position: absolute;
-	top: 100%;
-	z-index: 1;
-	background: $blue;
-	li{
-		padding-left:0px;
-		width:100%;
-		padding: 5px 15px;
-		border-top: 1px solid #fff;
-		border-bottom: 1px solid #fff;
-		a{
-			color: #fff;
-			text-transform: uppercase;
-			font-size: 20px;
-			font-weight: bold;
-			text-decoration: none;
-		}
-	}
-}
-
-@include at-breakpoint($tab){
-	#main-menu{
-		position: relative;
-		background: $blue;
-		li{
-			padding-left:0px;
-			width:auto;
-			padding: 5px;
-			border-top: none;
-			border-bottom: none;
-			a{
-				color: #fff;
-				text-transform: capitalize;
-				font-size: 13px;
-				font-weight: bold;
-				text-decoration: none;
-			}
-		}
-	}
-}
-
-@include at-breakpoint($desk){
-	.main-footer{
-		#site-name{
-			float: left;
-			width: 275px;
-		}
-	}
-	#footer #main-menu {
-		background: none;
-	}
-}
-
 
 #site-name {
 	width: 100%;
@@ -126,54 +77,55 @@
 	}
 }
 
-.list-inline>li {
-	padding-right: 0;
-}
-#footer,
-#header {
-	padding-left: 0px;
-	padding-right: 0px;
-	background: $orange;
-	@include at-breakpoint($desk){
-		background: $blue;
-	}
-	.section {
-		.main-footer,
-		.main-header{
-			#logo{
-				float:left;
+.navigation-menu{
+	background: $blue;
+	ul.menu{
+		li{
+			border-bottom:1px solid $white;
+			&.open{
+				border-bottom: none;
+			}
+			&.first{
+				border-top: 1px solid $white;
+			}
+			a{
+				color: $white;
+				text-transform: uppercase;
+				font-size: 25px;
+				font-weight: bold;
+				text-decoration: none;
+				&.active-trail,
+				&.active,
+				&:hover{
+					color:$text-black;
+				}
+			}
+			ul{
+				background: $light-blue;
+				li {
+					width:100%;
+					position: relative;
+					
+				}
 			}
 		}
 	}
-}
-
-#header{
-	padding-left:0;
-	padding-right: 0;
-}
-.navigation-menu{
-	position: relative;
-	display: block;
-	height: 50px;
-	width: 100%;
+	padding-top: 50px;
 	background: #1c8fc5 url("../images/menu-mobile-bg.png") no-repeat left 10px;
 	background-size: 55px 35px;
-	ul#main-menu{
-		height: 0px;
-		overflow: hidden;
-		@include transition($transition:all 0.2s);
-	}
+	height: 50px;
+	overflow: hidden;
+	// position: realtive;
 	&.hover-menu{
-		ul#main-menu{
-			height: 250px;
-			@include transition($transition:all 0.2s);
-		}
+		height: auto;
+		@include transition($transition:all 0.2s);
 	}
 	&.close-menu{
 		&:after{
 			content: "X";
 			display: block;
 			position:absolute;
+			top: 75px;
 			color:$black;
 			font-size: 25px;
 			right: 0;
@@ -183,92 +135,44 @@
 	}
 }
 
+.dropdown-menu {
+	position: relative;
+	float: none;
+	min-width: 160px;
+	padding: 0px;
+}
+
 @include at-breakpoint($tab){
+	.dropdown-menu {
+		position: absolute;
+		float: left;
+		min-width: 160px;
+		padding: 5px 0;
+	}
 	.navigation-menu{
-		position:relative;
-		display: block;
-		width:auto;
-		height: auto;
 		background: none;
-		z-index:100;
-		.section {
-			width:100%;
-		}
-		text-align: center;
-		
-		ul#main-menu{
-			display:inline-block;
-			height: auto;
-			overflow: visible;
+		padding-top: 0;
+		overflow: visible;
+		height: auto;
+		ul.menu{
+			background: $blue;
+			
 			li{
-				border-bottom: 3px solid transparent;
-				&.active,
-				&:hover{
-					border-bottom: 3px solid $orange;
+				float: left;
+				border-bottom: none;
+				&.first{
+					border-top: none;
 				}
 				a{
-					padding:0 10px;
-					color:#fff;
-					font-weight: bold;
-					display:block;
-					text-decoration: none;
-					border-right: 2px solid $text-light-black;
-				}
-				&.last{
-					a{
-						border-right: 0;
-					}
+					font-size: 15px;
+					text-transform: capitalize;	
 				}
 			}
 		}
 	}
 }
 
-@include at-breakpoint($desk){
-	.navigation-menu{
-		float: right;
-		text-align: left;
-		ul#main-menu{
-			margin-top:28px;
-			li{
-				border-bottom: none;
-				padding-bottom: 35px;
-				&:hover,
-				&.active{
-					a{
-						
-					}
-				}
-			}
-		}
-	}
-}
-
-
-#footer{
-	background: $light-blue;
-	.section.footer-bottom{
-		clear:both;
-		width: 100%;
-		background: $blue;
-		.region-footer {
-			width:85%;
-			margin: 0 auto;
-			ul.menu.nav {
-				li {
-					float: left;
-					a{
-						padding: 10px 25px 10px 0 ;
-						text-decoration: none;
-						color:#fff;
-						font-weight: bold;
-					}
-				}
-			}
-		}
-	}
-}
-
+//content
 
 #mini-panel-homepage_midsection{
 	margin-top: 20px;
@@ -392,51 +296,90 @@
 
 
 
-.views-row{
-	border-top:1px solid $text-light-black;
-	border-left: 5px solid $orange;
-	margin-bottom: 20px;
-	// padding: 10px 20px;
-	@include box-shadow(1px ,2px, 2px, $text-light-black, false);
-	.views-field-field-news-image{
-		img{
-			width: 100%;
+
+//Footer
+
+#footer{
+	background: $light-blue;
+	.section.footer-bottom{
+		clear:both;
+		width: 100%;
+		background: $blue;
+		.region-footer {
+			width:85%;
+			margin: 0 auto;
+			ul.menu.nav {
+				li {
+					float: left;
+					a{
+						padding: 10px 25px 10px 0 ;
+						text-decoration: none;
+						color:#fff;
+						font-weight: bold;
+					}
+				}
+			}
 		}
-	}
-	.views-field-title{
-		padding: 0 20px;
-		a{
-			font-family: helvetica, sans-serif;
-			font-weight: 300;
-			font-size: 20px;
-			color: $black;
-			text-decoration: none;
-		}
-	}
-	.views-field-nothing{
-		font-family: helvetica, sans-serif;
-		font-weight: 300;
-		font-style: italic;
-		font-size: 12px;
-		color: $black;
-		padding: 0 20px;
-	}
-	.views-field-body{
-		font-family: helvetica, sans-serif;
-		font-weight: bold;
-		font-size: 13px;
-		color: $black;
-		padding: 0 20px;
 	}
 }
-.views-row:hover{
-	background: $blue;
-	.views-field-title{
-		color: $white;
-		a{
-			color: $white;
+
+@include at-breakpoint($desk){
+	.main-footer{
+		#site-name{
+			float: left;
+			width: 275px;
 		}
 	}
-	.views-field-nothing{color: $white;}
-	.views-field-body{color: $white;}
+	#footer #main-menu {
+		background: none;
+	}
 }
+
+.list-inline > 	li {
+	padding-right: 0;
+}
+#footer,
+#header {
+	padding-left: 0px;
+	padding-right: 0px;
+	background: $orange;
+	@include at-breakpoint($desk){
+		background: $blue;
+	}
+	.section {
+		.main-footer,
+		.main-header{
+			#logo{
+				float:left;
+			}
+		}
+	}
+}
+
+#header{
+	padding-left:0;
+	padding-right: 0;
+}
+
+
+//========================================
+//           INNER PAGES
+//========================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

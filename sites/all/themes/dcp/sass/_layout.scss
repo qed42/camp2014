@@ -15,7 +15,7 @@ $gutter-width: $horz-spacing-unit;
 $grid-padding: 5px;
 
 $container-style: magic;
-$container-width: 1440px;
+$container-width: 100%;
 // $container-width: 1200px;
 
 // Susy Media Layouts @see http://susy.oddbird.net/guides/reference/#ref-media-layouts
@@ -48,8 +48,8 @@ ul {
 
 .at-panel{
 	@include container; 
-	max-width: 1220px;
-	_width: 1220px;
+	max-width: 90%;
+	_width: 90%;
 	// @include susy-grid-background;
 	.region-two-66-33-top,
 	.region-two-66-33-first,
@@ -80,8 +80,8 @@ ul {
   }
   .at-panel {
 		@include container; 
-		max-width: 1220px;
-		_width: 1220px;
+		max-width: 90%;
+		_width: 90%;
 		// @include susy-grid-background;
 		.region-two-66-33-top,
 		.region-two-66-33-bottom {

@@ -1,6 +1,6 @@
 (function ($) {
   $(document).ready(function() {
-    $('.navigation-menu').click(function(){
+    $('.navigation-menu').hover(function(){
       if($(window).width() < '600' ){
         if($(this).hasClass('hover-menu')){
           $(this).removeClass('hover-menu');

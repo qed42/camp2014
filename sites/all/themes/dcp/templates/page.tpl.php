@@ -106,15 +106,11 @@
 
       <div class="navigation-menu">
         <?php print render($page['header']); ?>
-        <?php if ($main_menu || $secondary_menu): ?>
-        <div id="navigation"><div class="section">
-          <?php print theme('links__system_main_menu', array('links' => $main_menu, 'attributes' => array('id' => 'main-menu', 'class' => array('links', 'inline', 'clearfix')))); ?>
-        </div></div> <!-- /.section, /#navigation -->
       </div>
 
-      <?php print render($page['header_bottom']); ?>
-
-    <?php endif; ?>
+      <div class="header-bottom">
+        <?php print render($page['header_bottom']); ?>
+      </div>
 
     </div></div> <!-- /.section, /#header -->
 
@@ -153,50 +149,7 @@
 
     </div></div> <!-- /#main, /#main-wrapper -->
 
-    <div id="footer"><div class="section">
-      <!-- =================== -->
-      <div class="main-footer">
-        
-        <?php if ($logo): ?>
-          <a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>" rel="home" id="logo">
-            <img src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" />
-          </a>
-        <?php endif; ?>
-
-        <?php if ($site_name || $site_slogan): ?>
-          <div id="name-and-slogan">
-            <?php if ($site_name): ?>
-              <?php if ($title): ?>
-                <div id="site-name"><strong>
-                  <a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>" rel="home"><span><?php print $site_name; ?></span></a>
-                </strong></div>
-              <?php else: /* Use h1 when the content title is empty */ ?>
-                <h1 id="site-name">
-                  <a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>" rel="home"><span><?php print $site_name; ?></span></a>
-                </h1>
-              <?php endif; ?>
-            <?php endif; ?>
-
-            <?php if ($site_slogan): ?>
-              <div id="site-slogan"><?php print $site_slogan; ?></div>
-            <?php endif; ?>
-          </div> <!-- /#name-and-slogan -->
-        <?php endif; ?>
-      </div>
-
-      <div class="navigation-menu">
-        <?php print render($page['header']); ?>
-        <?php if ($main_menu || $secondary_menu): ?>
-        <div id="navigation"><div class="section">
-          <?php print theme('links__system_main_menu', array('links' => $main_menu, 'attributes' => array('id' => 'main-menu', 'class' => array('links', 'inline', 'clearfix')))); ?>
-        </div></div> <!-- /.section, /#navigation -->
-      </div>
-      <!-- =================== -->
-    </div>
-    <div class="section footer-bottom clearfix">
+    <div id="footer"><div class="section footer-bottom clearfix">
       <?php print render($page['footer']); ?>
-      <?php endif; ?>
-    </div>
-  </div> <!-- /.section, /#footer -->
-
-  </div></div> <!-- /#page, /#page-wrapper -->
+    </div></div> <!-- /.section, /#footer -->
+</div></div> <!-- /#page, /#page-wrapper -->
