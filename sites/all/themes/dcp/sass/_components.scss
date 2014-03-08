@@ -821,3 +821,19 @@ iframe{
 		}
 	}
 }
+
+
+.page-user{
+	.at-panel{
+		margin-top: 20px;
+	}
+	.region-two-33-66-first{
+		background: #fff;
+		padding: 20px;
+		@include rounded(5px);
+		.pane-title{
+			text-transform: uppercase;
+		}
+	}
+	
+}

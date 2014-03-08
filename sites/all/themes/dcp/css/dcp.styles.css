@@ -1591,3 +1591,19 @@ iframe {
       .sponsor-detail-page .pane-sponsorship-level-tag ul li {
         width: 25%;
         display: block; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003827}}
+.page-user .at-panel {
+  margin-top: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003830}}
+.page-user .region-two-33-66-first {
+  background: #fff;
+  padding: 20px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003834}}
+  .page-user .region-two-33-66-first .pane-title {
+    text-transform: uppercase; }
