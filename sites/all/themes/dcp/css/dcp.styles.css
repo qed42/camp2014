@@ -1593,9 +1593,11 @@ iframe {
         display: block; } }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003827}}
+.node-type-session .at-panel,
 .page-user .at-panel {
   margin-top: 20px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003830}}
+.node-type-session .region-two-33-66-first,
 .page-user .region-two-33-66-first {
   background: #fff;
   padding: 20px;
@@ -1605,5 +1607,6 @@ iframe {
   -webkit-border-radius: 5px;
   border-radius: 5px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003834}}
+  .node-type-session .region-two-33-66-first .pane-title,
   .page-user .region-two-33-66-first .pane-title {
     text-transform: uppercase; }
