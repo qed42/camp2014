@@ -105,9 +105,11 @@ ul {
 
 
 body {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Ubuntu', Helvetica, sans-serif;
 	line-height: 1.5;
-	font-size: 13px;
+	font-size: 16px;
+	background: #efefef;
+	font-weight: 300;
 }
 
 h1,
@@ -115,10 +117,15 @@ h2,
 h3,
 h4,
 h5,
-h6 	{ 	
-	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+h6,
+.pane-title 	{ 	
+	font-family: 'Paprika', cursive;
 }
 
+::selection {
+	background-color: #1c8fc5;
+	color: #fff;
+}
 
 
 // library

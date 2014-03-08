@@ -58,6 +58,7 @@
 <html lang="<?php print $language->language; ?>" dir="<?php print $language->dir; ?>"<?php print $rdf_namespaces; ?><?php print $html_attributes; ?>>
 <head<?php print $rdf_profile?>>
   <?php print $head; ?>
+  <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700|Paprika' rel='stylesheet' type='text/css'>
   <title><?php print $head_title; ?></title>
   <?php print $styles; ?>
   <?php print $scripts; ?>

@@ -12,7 +12,7 @@ $horz-spacing-unit: 1em;
 $total-columns: 4;
 $column-width: 4em;
 $gutter-width: $horz-spacing-unit;
-$grid-padding: 5px;
+$grid-padding: 1%;
 
 $container-style: magic;
 $container-width: 100%;
@@ -27,10 +27,18 @@ $desk: 70em 16; // At 70em use 16 columns.
 #footer {
   @include container; 
   margin-bottom: $vert-spacing-unit;
+  max-width: 100%;
+	_width: 100%;
 }
 
 .alert-block {
   margin-bottom: $vert-spacing-unit;
+}
+
+#breadcrumb{
+	 @include container; 
+	 max-width: 90%;
+	_width: 90%;
 }
 
 ul {
@@ -63,6 +71,14 @@ ul {
 		.panel-col{@include span-columns(4, 4);}
 		.panel-col-last{@include span-columns(4, 4);}
 	}
+
+	.region-two-33-66-top,
+	.region-two-33-66-first,
+	.region-two-33-66-second,
+	.region-two-33-66-bottom{
+		@include span-columns(4, 4);
+	}
+
 }
 
 #footer .section{
@@ -77,6 +93,11 @@ ul {
   #main-wrapper,
   #footer {
     @include set-container-width; 
+    padding-left: 0px;
+		padding-right: 0px;
+		margin-bottom: $vert-spacing-unit;
+	  max-width: 100%;
+		_width: 100%;
   }
   .at-panel {
 		@include container; 
@@ -99,6 +120,17 @@ ul {
 			.panel-col{@include span-columns(4, 12);}
 			.panel-col-last{@include span-columns(4 omega, 12);}
 		}
+
+		.region-two-33-66-top,
+		.region-two-33-66-bottom{
+			@include span-columns(12, 12);
+		}
+		.region-two-33-66-first{
+			@include span-columns(4, 12);
+		}
+		.region-two-33-66-second{
+			@include span-columns(8 omega, 12);
+		}
 	}
 }
 
@@ -108,6 +140,9 @@ ul {
   #main-wrapper,
   #footer {
     @include set-container-width; 
+    margin-bottom: $vert-spacing-unit;
+	  max-width: 100%;
+		_width: 100%;
   }
   #footer .section{
 		display: block;

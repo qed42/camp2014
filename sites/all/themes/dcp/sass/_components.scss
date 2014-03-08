@@ -4,11 +4,8 @@
 //========================================
 
 #content {
-	.section{
-		width:100%;
-	}
+	.section{width:100%;}
 	.panel-3col-33-stacked {
-		.panel-col-top{}
 		.center-wrapper{
 			width: 85%;
 			margin: 0 auto;
@@ -115,7 +112,6 @@
 	background-size: 55px 35px;
 	height: 50px;
 	overflow: hidden;
-	// position: realtive;
 	&.hover-menu{
 		height: auto;
 		@include transition($transition:all 0.2s);
@@ -172,13 +168,43 @@
 	}
 }
 
+@include at-breakpoint($desk){
+	#site-name{
+		width: 410px;
+	}
+	.main-header{
+		overflow: hidden;
+	}
+	#logo{
+		img{
+			height:80px;
+		}
+	}
+	.navigation-menu{
+		width: 45%;
+		float: right;
+		padding-top: 20px;
+		text-align: right;
+		ul{
+			li{
+				text-align: left;
+			}
+		}
+	}
+}
+
+
 //content
+
+button.btn-primary,
+.form-item{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
 
 #mini-panel-homepage_midsection{
 	margin-top: 20px;
-	.panel-col-first{}
-	.panel-col{}
-	.panel-col-last{}
 	.inside{
 		margin-left: 0;
 		margin-right: 0;
@@ -295,6 +321,95 @@
 }
 
 
+// Announcement block css
+#homepage{
+	.pane-custom{
+		margin: 20px 0;
+		@include rounded(5px);
+		@include box-shadow(2px,2px ,10px ,#ddd, false);
+		a{
+			color: $orange;
+			text-decoration: none;
+		}
+		.pane-title{
+			font-size: 35px;
+		}
+	}
+	.pane-1 {
+		padding: 20px;
+		
+		// @include gradient($white, $light-blue);
+		background: $white;
+		a{
+			color: $orange;
+			text-decoration: none;
+		}
+		.venue-details{
+			padding:10px 60px;
+			background: $orange;
+			color: $white;
+			font-weight: bold;
+			font-size: 25px;
+			@include box-shadow(2px,2px ,10px ,$text-light-black, false);
+			@include rounded(5px);
+			margin-top: 20px;
+		}
+	}
+	.pane-2 {
+		padding: 20px;
+		// @include gradient($blue, $black);
+		p{
+			// color: #fff;
+		}
+		background: $white;
+		.propose-session{
+			padding:10px 60px;
+			background: green;
+			color: $white;
+			font-weight: bold;
+			font-size: 25px;
+			@include box-shadow(2px,2px ,10px ,$text-light-black, false);
+			@include rounded(5px);
+			margin-top: 20px;
+			display: block;
+			text-transform: uppercase;
+			text-align: center;
+		}
+	}
+	iframe{
+		width:100% !important;
+		background: $white;
+	}
+}
+
+iframe{
+	width:100% !important;
+	background: $white;
+}
+
+#main-wrapper{
+	// @include gradient($white, $black);
+	background: #efefef;
+}
+.region-highlighted{
+	@include box-shadow(2px,2px ,10px ,$text-light-black, false);
+}
+
+.page-about,
+.page-sessions,
+.page-session{
+	.region-two-66-33-first{
+		background: #fff;
+		padding: 20px;
+		@include rounded(5px);
+		ul{
+			li{
+				
+			}
+		}
+	}
+}
+
 
 
 //Footer
@@ -305,8 +420,9 @@
 		clear:both;
 		width: 100%;
 		background: $blue;
-		.region-footer {
-			width:85%;
+		.region-footer #block-block-6,
+		.region-footer .block-menu-menu-footer-menus{
+			width:100%;
 			margin: 0 auto;
 			ul.menu.nav {
 				li {
@@ -338,6 +454,10 @@
 .list-inline > 	li {
 	padding-right: 0;
 }
+.nav>li>a:hover, .nav>li>a:focus {
+	text-decoration: none;
+	background-color: transparent;
+}
 #footer,
 #header {
 	padding-left: 0px;
@@ -362,24 +482,342 @@
 }
 
 
+#block-block-6{
+	padding: 20px 6%;
+	background: $black;
+	.block-title{
+		text-transform: uppercase;
+		color: $white;
+	}
+	p{
+		width: 100%;
+		float: none;
+		color: $text-light-black;
+		@include at-breakpoint($desk){
+			width: 30%;
+			float: right;
+		}
+		a[href="venue-details"]{
+			padding:10px 60px;
+			background: $white;
+			// @include gradient($white, $black);
+			color: $black;
+			font-weight: bold;
+			font-size: 25px;
+			@include box-shadow(2px,2px ,10px ,$text-light-black, false);
+			@include rounded(5px);
+			margin-top: 20px;
+			display: block;
+			text-transform: uppercase;
+			text-align: center;
+			text-decoration: none;
+		}
+	}
+	.footer-vd{
+		width: 100%;
+		float:none;
+		@include at-breakpoint($desk){
+			width: 50%;
+			float:left;
+		}
+		p{
+			width: 100%;
+			float: none;
+			@include at-breakpoint($desk){
+				width: 100%;
+				float: none;
+			}
+			a{
+				
+			}
+			
+		}
+	}
+}
+
+#block-menu-menu-footer-menus {
+	padding: 20px 6%;
+	a{
+		color: $white;
+		text-decoration: none;
+		font-weight: bold;
+		&:hover{
+			color: $orange;
+		}
+	}
+	ul{
+		li{
+			float: none;
+			@include at-breakpoint($desk){
+				float: left;
+			}
+		}
+	}
+}
+
 //========================================
 //           INNER PAGES
 //========================================
 
+.views-exposed-form .views-exposed-widget .form-submit {
+	margin-top: 2em;
+}
 
+.region-content{
+	ul {
+	  display: block;
+		list-style-type: disc;
+		-webkit-margin-before: 1em;
+		-webkit-margin-after: 1em;
+		-webkit-margin-start: 0px;
+		-webkit-margin-end: 0px;
+		-webkit-padding-start: 40px;
+		-moz-margin-before: 1em;
+		-moz-margin-after: 1em;
+		-moz-margin-start: 0px;
+		-moz-margin-end: 0px;
+		-moz-padding-start: 40px;
+	}
+}
 
+.page-venue-details{
+	.region-two-33-66-first{
+		background: #fff;
+		padding: 20px;
+		@include rounded(5px);
+		.pane-title{
+			text-transform: uppercase;
+		}
+	}
+	.region-two-33-66-bottom,
+	.region-two-33-66-second{
+		.pane-title{
+			padding: 8px 15px;
+			margin-bottom: 20px;
+			list-style: none;
+			background-color: #f5f5f5;
+			@include rounded(5px);
+			margin-top: 0px;
+			text-transform: uppercase;
+		}
+	}
+	.region-two-33-66-bottom{
+		table.views-view-grid{
+			width:100%;
+			.views-field-field-images{
+				img{
+					width: 100%;
+					height: auto;
+				}
+			}
+		}
+	}
+}
 
+.page-contact-us{
+	.at-panel{
+		margin-top: 20px;
+	}
+	.region-two-66-33-first{
+		background: #fff;
+		padding: 20px;
+		@include rounded(5px);
+		.pane-title{
+			text-transform: uppercase;
+		}
+	}
+	.pane-block-6{
+		padding: 20px;
+		background: $text-black;
+		color: $white;
+		@include rounded(5px);
+		a{
+			color: $orange;
+			text-decoration: none;
+			padding: 0 20px;
+			font-weight: bold;
+			&:hover{
+				color: $blue;
+			}
+		}
+	}
+}
 
+.view-id-organiser{
+	.views-row{
+		clear: both;
+		width: 100%;
+		text-align: center;
+		margin: 10px 0;
+		padding: 10px;
+		.views-field-picture{
+			padding-right: 10px;
+			float: left;
+		}
+		.views-field-name{
+			font-size: 18px;
+			color: $black;
+		}
+		.views-field-rid{
+			text-transform: uppercase;
+			font-style: normal;
+			letter-spacing: 1px;
+			font-size: 10px;
+			color: red;
+		}
+		@include at-breakpoint($tab){
+			width: 25%;
+			float: left;
+			text-align: left;
+			clear: none;
+		}
+	}
+}
 
+#sponsor-landing{
+	.pane-1{
+		.pane-title a{
+			padding: 8px 15px;
+			margin-bottom: 20px;
+			list-style: none;
+			background-color: #f5f5f5;
+			@include rounded(5px);
+			margin-top: 0px;
+			text-transform: uppercase;
+			text-decoration: none;
+			color: $text-black;
+			&:hover{
+				color: $text-black;
+			}
+		}
+		.pane-content{
+			background: #fff;
+			padding: 20px;
+			@include rounded(5px);
+		}
+	}
 
+	.pane-sponsorship-level {
+		display: table;
+		margin-top: 20px;
+		.views-row {
+			float: none;
+			width: 100%;
+			display: block;
+			clear: both;
+			margin-top:20px;
+			@include at-breakpoint($desk){
+				float: left;
+				width: 31%;
+				display: inline-block;
+				clear: none;
+			}
+			background: $white;
+			height:400px;
+			&.views-row-2{
+				@include at-breakpoint($desk){
+		 			margin:20px 3.5%;
+		 		}
+		 	}
+			.views-field-name{
+				text-align: center;
+				font-size: 1em;
+				padding: 5px 10px;
+				background-color: black;
+				a {
+						text-decoration: none;
+						color:white;
+						text-transform: uppercase;
+				}
+			}
+			.views-field-description{
+				margin-top: 7px;
+				.field-content{
+					text-align: left;
+					padding: 5px 10px 5px 12px;
+					p{
+						line-height: 23px;
+					}
+				}
+			}
+		}
+	}
 
+	.pane-sponsorship-level-tag-panel-pane-1,
+	.pane-sponsorship-level-tag-panel-pane-2{
+		margin-top: 35px;
+		.views-view-grid{
+			width: 100%;
+			@include at-breakpoint($desk){
+				width: 73%;
+			}
+			img{
+				width:100%;
+				height: auto;
+			}
+		}
+		.view-header{
+			display: none;
+			float: left;
+			margin-right: 2%;
+			padding: 5px 31px;
+			@include at-breakpoint($desk){
+				width: 24%;
+				display: block;
+			}
+		}
+		.sponsor-label{
+			text-align: center;
+			font-size: 15px;
+			text-transform: uppercase;
+		}
+		.sponsor-body{
+			text-align: left;
+			line-height: 23px;
+			font-size: 12px;
+		}
+	}
+	.pane-sponsorship-level-tag-panel-pane-1{
+		.view-header{
+				clear: both;
+		}
+	}
+}
 
-
-
-
-
-
-
-
-
-
+.sponsor-detail-page {
+	img{
+		width: 100%;
+		height: auto;
+	}
+	.region-two-33-66-second{
+		background: #fff;
+		padding: 20px;
+		@include rounded(5px);
+	}
+	.pane-sponsorship-level-tag{
+		ul{
+			-webkit-margin-before: 0;
+			-webkit-margin-after: 0;
+			-webkit-margin-start: 0px;
+			-webkit-margin-end: 0px;
+			-webkit-padding-start: 0px;
+			-moz-margin-before: 0;
+			-moz-margin-after: 0;
+			-moz-margin-start: 0px;
+			-moz-margin-end: 0px;
+			-moz-padding-start: 0px;
+	    list-style-type: none;
+		  li{
+		  	width: 50%;
+		  	float: left;
+		  	.field-content{
+		  		padding: 20px;
+		  	}
+		  	@include at-breakpoint($tab){
+					width: 25%;
+					display: block;
+				}
+		  }
+		}
+	}
+}
