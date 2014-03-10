@@ -234,26 +234,32 @@ button.btn-primary,
 
 #home-become-a-sponsor{
 	margin-top: 20px;
-	background: $text-black;
-	img{
-		width:100%;
-		height: auto;
-	}
+	background: $blue;
 	p{
 		color:#fff;
 		margin: 0;
 		font-family: helvetica, sans-serif;
 		font-size: 12px;
 		font-weight: 100;
-		&:nth-child(2n){
-			padding:5px 20px;
-			height: 160px;
-		}
-		&:first-child{
-			height: 375px;
-			overflow: hidden;
-			border: 15px solid $text-black;
-			background:#fff;
+		// &:nth-child(2n){
+		// 	padding:5px 20px;
+		// 	height: 160px;
+		// }
+		// &:first-child{
+		// 	height: 375px;
+		// 	overflow: hidden;
+		// 	border: 15px solid $text-black;
+		// 	background:#fff;
+		// }
+		a.propose-session{
+			padding:10px 60px;
+			background: $black;
+			color: $white;
+			font-weight: bold;
+			font-size: 25px;
+			@include box-shadow(2px,2px ,10px ,$text-light-black, false);
+			@include rounded(5px);
+			margin-top: 20px;
 		}
 	}
 }
