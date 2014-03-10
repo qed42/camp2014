@@ -238,21 +238,11 @@ button.btn-primary,
 	p{
 		color:#fff;
 		margin: 0;
-		font-family: helvetica, sans-serif;
-		font-size: 12px;
+		font-size: 18px;
 		font-weight: 100;
-		// &:nth-child(2n){
-		// 	padding:5px 20px;
-		// 	height: 160px;
-		// }
-		// &:first-child{
-		// 	height: 375px;
-		// 	overflow: hidden;
-		// 	border: 15px solid $text-black;
-		// 	background:#fff;
-		// }
+		padding: 20px;
 		a.propose-session{
-			padding:10px 60px;
+			padding:10px 40px;
 			background: $black;
 			color: $white;
 			font-weight: bold;
