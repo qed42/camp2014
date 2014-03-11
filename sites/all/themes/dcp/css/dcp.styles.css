@@ -968,7 +968,7 @@ ul {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003203}}
   .navigation-menu {
-    width: 45%;
+    width: 50%;
     float: right;
     padding-top: 20px;
     text-align: right; }
