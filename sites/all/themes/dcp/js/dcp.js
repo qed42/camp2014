@@ -11,5 +11,11 @@
         }
       }
     });
+
+    if($('#block-system-main').find('.at-panel').length > 0){
+      $('body').addClass('panelised');
+    }else{
+      $('body').addClass('not-panelised');
+    }
   });
 })(jQuery);

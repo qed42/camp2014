@@ -3,6 +3,26 @@
 //           HOME PAGE
 //========================================
 
+#main-wrapper{
+	min-height: 450px;
+}
+
+.not-panelised{
+	#content{
+		width: 90%;
+		margin: 20px auto;
+		background: #fff;
+		padding: 20px;
+		@include at-breakpoint($tab){
+			// .section {
+				width: 80%;
+				margin: 20px auto;
+				@include rounded(5px);
+			// }
+		}
+	}
+}
+
 #content {
 	.section{width:100%;}
 	.panel-3col-33-stacked {
@@ -494,10 +514,9 @@ iframe{
 			width: 30%;
 			float: right;
 		}
-		a[href="venue-details"]{
+		a{
 			padding:10px 60px;
 			background: $white;
-			// @include gradient($white, $black);
 			color: $black;
 			font-weight: bold;
 			font-size: 25px;
