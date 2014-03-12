@@ -883,6 +883,14 @@ iframe{
 		width: 300px;
 		text-align: center;
 	}
+
+	.page-sponsor-camp{}
+	.page-contact-us{
+		.webform-component-textfield,
+		.webform-component-textarea{
+			width:100%;
+		}
+	}
 }
 
 .grippie{
