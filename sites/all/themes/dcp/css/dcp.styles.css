@@ -782,18 +782,18 @@ ul {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_layout\.scss}line{font-family:\00003147}}
   #footer .section {
     display: block; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\000035}}
 #main-wrapper {
   min-height: 450px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000310}}
 .not-panelised #content {
   width: 90%;
   margin: 20px auto;
   background: #fff;
   padding: 20px; }
   @media (min-width: 44em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000310}}
     .not-panelised #content {
       width: 80%;
       margin: 20px auto;
@@ -803,43 +803,43 @@ ul {
       -webkit-border-radius: 5px;
       border-radius: 5px; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000326}}
 #content .section {
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000328}}
 #content .panel-3col-33-stacked .center-wrapper {
   width: 85%;
   margin: 0 auto; }
 
 @media (min-width: 44em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000336}}
   .section {
     width: 85%;
     margin: 0 auto; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000343}}
 .main-header {
   height: 75px; }
 
 @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000348}}
   .main-header {
     float: left; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000354}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000353}}
 #logo {
   display: none; }
 
 @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000357}}
   #logo {
     display: block; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000362}}
 #site-name {
   width: 100%;
   text-align: center;
   display: block;
   margin: 0;
   float: left; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000368}}
   #site-name a {
     color: #fff;
     text-transform: uppercase;
@@ -850,12 +850,12 @@ ul {
     line-height: 30px; }
 
 @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000381}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000380}}
   #site-name {
     width: 375px;
     margin: 0;
     float: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000384}}
     #site-name a {
       color: #fff;
       text-transform: uppercase;
@@ -864,7 +864,7 @@ ul {
       text-decoration: none;
       font-size: 30px;
       line-height: 30px; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000397}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000396}}
 .navigation-menu {
   background: #1c8fc5;
   padding-top: 50px;
@@ -872,33 +872,33 @@ ul {
   background-size: 55px 35px;
   height: 50px;
   overflow: hidden; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003100}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\0000399}}
   .navigation-menu ul.menu li {
     border-bottom: 1px solid white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003102}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003101}}
     .navigation-menu ul.menu li.open {
       border-bottom: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003105}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003104}}
     .navigation-menu ul.menu li.first {
       border-top: 1px solid white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003107}}
     .navigation-menu ul.menu li a {
       color: white;
       text-transform: uppercase;
       font-size: 25px;
       font-weight: bold;
       text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003116}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003115}}
       .navigation-menu ul.menu li a.active-trail, .navigation-menu ul.menu li a.active, .navigation-menu ul.menu li a:hover {
         color: #474747; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003120}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003119}}
     .navigation-menu ul.menu li ul {
       background: #00bff3; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003122}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003121}}
       .navigation-menu ul.menu li ul li {
         width: 100%;
         position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003135}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003134}}
   .navigation-menu.hover-menu {
     height: auto;
     -ms-transition: all 0.2s;
@@ -906,7 +906,7 @@ ul {
     -moz-transition: all 0.2s;
     -webkit-transition: all 0.2s;
     transition: all 0.2s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003140}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003139}}
   .navigation-menu.close-menu:after {
     content: "X";
     display: block;
@@ -918,7 +918,7 @@ ul {
     padding: 10px;
     font-weight: bold; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003154}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003153}}
 .dropdown-menu {
   position: relative;
   float: none;
@@ -926,102 +926,102 @@ ul {
   padding: 0px; }
 
 @media (min-width: 44em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003162}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003161}}
   .dropdown-menu {
     position: absolute;
     float: left;
     min-width: 160px;
     padding: 5px 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003168}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003167}}
   .navigation-menu {
     background: none;
     padding-top: 0;
     overflow: visible;
     height: auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003173}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003172}}
     .navigation-menu ul.menu {
       background: #1c8fc5; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003176}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003175}}
       .navigation-menu ul.menu li {
         float: left;
         border-bottom: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003179}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003178}}
         .navigation-menu ul.menu li.first {
           border-top: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003182}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003181}}
         .navigation-menu ul.menu li a {
           font-size: 15px;
           text-transform: capitalize; } }
 @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003192}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003191}}
   #site-name {
     width: 410px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003195}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003194}}
   .main-header {
     overflow: hidden; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003199}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003198}}
   #logo img {
     height: 80px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003203}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003202}}
   .navigation-menu {
     width: 50%;
     float: right;
     padding-top: 20px;
     text-align: right; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003209}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003208}}
     .navigation-menu ul li {
       text-align: left; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003220}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003219}}
 button.btn-primary,
 .form-item {
   margin-top: 10px;
   margin-bottom: 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003226}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003225}}
 #mini-panel-homepage_midsection {
   margin-top: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003228}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003227}}
   #mini-panel-homepage_midsection .inside {
     margin-left: 0;
     margin-right: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003232}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003231}}
   #mini-panel-homepage_midsection img {
     width: 100%;
     height: auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003236}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003235}}
   #mini-panel-homepage_midsection .panel-panel {
     background: #1c8fc5; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003238}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003237}}
     #mini-panel-homepage_midsection .panel-panel p {
       color: #fff;
       margin: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003241}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003240}}
       #mini-panel-homepage_midsection .panel-panel p:last-child {
         padding: 20px;
         height: 250px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003245}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003244}}
       #mini-panel-homepage_midsection .panel-panel p:first-child {
         height: 180px;
         overflow: hidden;
         border: 1px solid #1c8fc5;
         background: #fff; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003255}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003254}}
 #home-become-a-sponsor {
   margin-top: 20px;
   background: #1c8fc5; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003258}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003257}}
   #home-become-a-sponsor p {
     color: #fff;
     margin: 0;
     font-size: 18px;
     font-weight: 100;
     padding: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003264}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003263}}
     #home-become-a-sponsor p a.propose-session {
       padding: 10px 40px;
       background: black;
@@ -1039,17 +1039,17 @@ button.btn-primary,
       margin-top: 20px;
       display: block; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003279}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003278}}
 #mini-panel-social_data .panel-pane {
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003281}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003280}}
   #mini-panel-social_data .panel-pane iframe {
     width: 100% !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003287}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003286}}
 .pane-cod-news-panel-pane-1 {
   margin-top: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003289}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003288}}
   .pane-cod-news-panel-pane-1 .views-row {
     border-top: 1px solid #707070;
     border-left: 5px solid #f26c4f;
@@ -1058,50 +1058,50 @@ button.btn-primary,
     -webkit-box-shadow: 1px 2px 2px #707070;
     -moz-box-shadow: 1px 2px 2px #707070;
     box-shadow: 1px 2px 2px #707070; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003296}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003295}}
     .pane-cod-news-panel-pane-1 .views-row .views-field-title a {
       font-family: helvetica, sans-serif;
       font-weight: 300;
       font-size: 20px;
       color: black;
       text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003304}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003303}}
     .pane-cod-news-panel-pane-1 .views-row .views-field-nothing {
       font-family: helvetica, sans-serif;
       font-weight: 300;
       font-style: italic;
       font-size: 12px;
       color: black; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003310}}
     .pane-cod-news-panel-pane-1 .views-row .views-field-body {
       font-family: helvetica, sans-serif;
       font-weight: bold;
       font-size: 13px;
       color: black; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003315}}
       .pane-cod-news-panel-pane-1 .views-row .views-field-body a.views-more-link {
         text-transform: uppercase;
         text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003321}}
   .pane-cod-news-panel-pane-1 .views-row:hover {
     background: #1c8fc5; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003323}}
     .pane-cod-news-panel-pane-1 .views-row:hover .views-field-title {
       color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003325}}
       .pane-cod-news-panel-pane-1 .views-row:hover .views-field-title a {
         color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003329}}
     .pane-cod-news-panel-pane-1 .views-row:hover .views-field-nothing {
       color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003330}}
     .pane-cod-news-panel-pane-1 .views-row:hover .views-field-body {
       color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003332}}
       .pane-cod-news-panel-pane-1 .views-row:hover .views-field-body a.views-more-link {
         color: white; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003342}}
 #homepage .pane-custom {
   margin: 20px 0;
   -ms-border-radius: 5px;
@@ -1112,22 +1112,22 @@ button.btn-primary,
   -webkit-box-shadow: 2px 2px 10px #dddddd;
   -moz-box-shadow: 2px 2px 10px #dddddd;
   box-shadow: 2px 2px 10px #dddddd; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003346}}
   #homepage .pane-custom a {
     color: #f26c4f;
     text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003350}}
   #homepage .pane-custom .pane-title {
     font-size: 35px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003354}}
 #homepage .pane-1 {
   padding: 20px;
   background: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003359}}
   #homepage .pane-1 a {
     color: #f26c4f;
     text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003363}}
   #homepage .pane-1 .venue-details {
     padding: 10px 60px;
     background: #f26c4f;
@@ -1143,11 +1143,11 @@ button.btn-primary,
     -webkit-border-radius: 5px;
     border-radius: 5px;
     margin-top: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003374}}
 #homepage .pane-2 {
   padding: 20px;
   background: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003382}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003381}}
   #homepage .pane-2 .propose-session {
     padding: 10px 60px;
     background: green;
@@ -1166,27 +1166,27 @@ button.btn-primary,
     display: block;
     text-transform: uppercase;
     text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003396}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003395}}
 #homepage iframe {
   width: 100% !important;
   background: white; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003402}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003401}}
 iframe {
   width: 100% !important;
   background: white; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003407}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003406}}
 #main-wrapper {
   background: #efefef; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003411}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003410}}
 .region-highlighted {
   -webkit-box-shadow: 2px 2px 10px #707070;
   -moz-box-shadow: 2px 2px 10px #707070;
   box-shadow: 2px 2px 10px #707070; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003418}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003417}}
 .page-about .region-two-66-33-first,
 .page-sessions .region-two-66-33-first,
 .page-session .region-two-66-33-first {
@@ -1198,24 +1198,24 @@ iframe {
   -webkit-border-radius: 5px;
   border-radius: 5px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003434}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003433}}
 #footer {
   background: #00bff3; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003436}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003435}}
   #footer .section.footer-bottom {
     clear: both;
     width: 100%;
     background: #1c8fc5; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003441}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003440}}
     #footer .section.footer-bottom .region-footer #block-block-6,
     #footer .section.footer-bottom .region-footer .block-menu-menu-footer-menus {
       width: 100%;
       margin: 0 auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003445}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003444}}
       #footer .section.footer-bottom .region-footer #block-block-6 ul.menu.nav li,
       #footer .section.footer-bottom .region-footer .block-menu-menu-footer-menus ul.menu.nav li {
         float: left; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003447}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003446}}
         #footer .section.footer-bottom .region-footer #block-block-6 ul.menu.nav li a,
         #footer .section.footer-bottom .region-footer .block-menu-menu-footer-menus ul.menu.nav li a {
           padding: 10px 25px 10px 0;
@@ -1224,65 +1224,65 @@ iframe {
           font-weight: bold; }
 
 @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003461}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003460}}
   .main-footer #site-name {
     float: left;
     width: 275px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003466}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003465}}
   #footer #main-menu {
     background: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003471}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003470}}
 .list-inline > li {
   padding-right: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003474}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003473}}
 .nav > li > a:hover, .nav > li > a:focus {
   text-decoration: none;
   background-color: transparent; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003479}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003478}}
 #footer,
 #header {
   padding-left: 0px;
   padding-right: 0px;
   background: #f26c4f; }
   @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003479}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003478}}
     #footer,
     #header {
       background: #1c8fc5; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003489}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003488}}
   #footer .section .main-footer #logo,
   #footer .section .main-header #logo,
   #header .section .main-footer #logo,
   #header .section .main-header #logo {
     float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003496}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003495}}
 #header {
   padding-left: 0;
   padding-right: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003502}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003501}}
 #block-block-6 {
   padding: 20px 6%;
   background: black; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003505}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003504}}
   #block-block-6 .block-title {
     text-transform: uppercase;
     color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003509}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003508}}
   #block-block-6 p {
     width: 100%;
     float: none;
     color: #707070; }
     @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003509}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003508}}
       #block-block-6 p {
         width: 30%;
         float: right; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003517}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003516}}
     #block-block-6 p a {
       padding: 10px 60px;
       background: white;
@@ -1302,49 +1302,49 @@ iframe {
       text-transform: uppercase;
       text-align: center;
       text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003532}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003531}}
   #block-block-6 .footer-vd {
     width: 100%;
     float: none; }
     @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003532}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003531}}
       #block-block-6 .footer-vd {
         width: 50%;
         float: left; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003539}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003538}}
     #block-block-6 .footer-vd p {
       width: 100%;
       float: none; }
       @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003539}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003538}}
         #block-block-6 .footer-vd p {
           width: 100%;
           float: none; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003554}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003553}}
 #block-menu-menu-footer-menus {
   padding: 20px 6%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003556}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003555}}
   #block-menu-menu-footer-menus a {
     color: white;
     text-decoration: none;
     font-weight: bold; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003560}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003559}}
     #block-menu-menu-footer-menus a:hover {
       color: #f26c4f; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003565}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003564}}
   #block-menu-menu-footer-menus ul li {
     float: none; }
     @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003565}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003564}}
       #block-menu-menu-footer-menus ul li {
         float: left; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003578}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003577}}
 .views-exposed-form .views-exposed-widget .form-submit {
   margin-top: 2em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003583}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003582}}
 .region-content ul {
   display: block;
   list-style-type: disc;
@@ -1359,7 +1359,7 @@ iframe {
   -moz-margin-end: 0px;
   -moz-padding-start: 40px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003600}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003599}}
 .page-venue-details .region-two-33-66-first {
   background: #fff;
   padding: 20px;
@@ -1368,10 +1368,10 @@ iframe {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003604}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003603}}
   .page-venue-details .region-two-33-66-first .pane-title {
     text-transform: uppercase; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003610}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003609}}
 .page-venue-details .region-two-33-66-bottom .pane-title,
 .page-venue-details .region-two-33-66-second .pane-title {
   padding: 8px 15px;
@@ -1385,18 +1385,18 @@ iframe {
   border-radius: 5px;
   margin-top: 0px;
   text-transform: uppercase; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003621}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003620}}
 .page-venue-details .region-two-33-66-bottom table.views-view-grid {
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003624}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003623}}
   .page-venue-details .region-two-33-66-bottom table.views-view-grid .views-field-field-images img {
     width: 100%;
     height: auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003634}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003633}}
 .page-contact-us .at-panel {
   margin-top: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003637}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003636}}
 .page-contact-us .region-two-66-33-first {
   background: #fff;
   padding: 20px;
@@ -1405,10 +1405,10 @@ iframe {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003641}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003640}}
   .page-contact-us .region-two-66-33-first .pane-title {
     text-transform: uppercase; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003645}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003644}}
 .page-contact-us .pane-block-6 {
   padding: 20px;
   background: #474747;
@@ -1418,32 +1418,32 @@ iframe {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003650}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003649}}
   .page-contact-us .pane-block-6 a {
     color: #f26c4f;
     text-decoration: none;
     padding: 0 20px;
     font-weight: bold; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003655}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003654}}
     .page-contact-us .pane-block-6 a:hover {
       color: #1c8fc5; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003663}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003662}}
 .view-id-organiser .views-row {
   clear: both;
   width: 100%;
   text-align: center;
   margin: 10px 0;
   padding: 10px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003669}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003668}}
   .view-id-organiser .views-row .views-field-picture {
     padding-right: 10px;
     float: left; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003673}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003672}}
   .view-id-organiser .views-row .views-field-name {
     font-size: 18px;
     color: black; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003677}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003676}}
   .view-id-organiser .views-row .views-field-rid {
     text-transform: uppercase;
     font-style: normal;
@@ -1451,14 +1451,14 @@ iframe {
     font-size: 10px;
     color: red; }
   @media (min-width: 44em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003663}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003662}}
     .view-id-organiser .views-row {
       width: 25%;
       float: left;
       text-align: left;
       clear: none; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003695}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003694}}
 #sponsor-landing .pane-1 .pane-title a {
   padding: 8px 15px;
   margin-bottom: 20px;
@@ -1473,10 +1473,10 @@ iframe {
   text-transform: uppercase;
   text-decoration: none;
   color: #474747; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003705}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003704}}
   #sponsor-landing .pane-1 .pane-title a:hover {
     color: #474747; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003709}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003708}}
 #sponsor-landing .pane-1 .pane-content {
   background: #fff;
   padding: 20px;
@@ -1485,11 +1485,11 @@ iframe {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003716}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003715}}
 #sponsor-landing .pane-sponsorship-level {
   display: table;
   margin-top: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003719}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003718}}
   #sponsor-landing .pane-sponsorship-level .views-row {
     float: none;
     width: 100%;
@@ -1499,56 +1499,56 @@ iframe {
     background: white;
     height: 400px; }
     @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003719}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003718}}
       #sponsor-landing .pane-sponsorship-level .views-row {
         float: left;
         width: 31%;
         display: inline-block;
         clear: none; } }
     @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003733}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003732}}
       #sponsor-landing .pane-sponsorship-level .views-row.views-row-2 {
         margin: 20px 3.5%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003738}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003737}}
     #sponsor-landing .pane-sponsorship-level .views-row .views-field-name {
       text-align: center;
       font-size: 1em;
       padding: 5px 10px;
       background-color: black; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003743}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003742}}
       #sponsor-landing .pane-sponsorship-level .views-row .views-field-name a {
         text-decoration: none;
         color: white;
         text-transform: uppercase; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003749}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003748}}
     #sponsor-landing .pane-sponsorship-level .views-row .views-field-description {
       margin-top: 7px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003751}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003750}}
       #sponsor-landing .pane-sponsorship-level .views-row .views-field-description .field-content {
         text-align: left;
         padding: 5px 10px 5px 12px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003754}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003753}}
         #sponsor-landing .pane-sponsorship-level .views-row .views-field-description .field-content p {
           line-height: 23px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003763}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003762}}
 #sponsor-landing .pane-sponsorship-level-tag-panel-pane-1,
 #sponsor-landing .pane-sponsorship-level-tag-panel-pane-2 {
   margin-top: 35px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003765}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003764}}
   #sponsor-landing .pane-sponsorship-level-tag-panel-pane-1 .views-view-grid,
   #sponsor-landing .pane-sponsorship-level-tag-panel-pane-2 .views-view-grid {
     width: 100%; }
     @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003765}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003764}}
       #sponsor-landing .pane-sponsorship-level-tag-panel-pane-1 .views-view-grid,
       #sponsor-landing .pane-sponsorship-level-tag-panel-pane-2 .views-view-grid {
         width: 73%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003770}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003769}}
     #sponsor-landing .pane-sponsorship-level-tag-panel-pane-1 .views-view-grid img,
     #sponsor-landing .pane-sponsorship-level-tag-panel-pane-2 .views-view-grid img {
       width: 100%;
       height: auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003775}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003774}}
   #sponsor-landing .pane-sponsorship-level-tag-panel-pane-1 .view-header,
   #sponsor-landing .pane-sponsorship-level-tag-panel-pane-2 .view-header {
     display: none;
@@ -1556,32 +1556,32 @@ iframe {
     margin-right: 2%;
     padding: 5px 31px; }
     @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003775}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003774}}
       #sponsor-landing .pane-sponsorship-level-tag-panel-pane-1 .view-header,
       #sponsor-landing .pane-sponsorship-level-tag-panel-pane-2 .view-header {
         width: 24%;
         display: block; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003785}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003784}}
   #sponsor-landing .pane-sponsorship-level-tag-panel-pane-1 .sponsor-label,
   #sponsor-landing .pane-sponsorship-level-tag-panel-pane-2 .sponsor-label {
     text-align: center;
     font-size: 15px;
     text-transform: uppercase; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003790}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003789}}
   #sponsor-landing .pane-sponsorship-level-tag-panel-pane-1 .sponsor-body,
   #sponsor-landing .pane-sponsorship-level-tag-panel-pane-2 .sponsor-body {
     text-align: left;
     line-height: 23px;
     font-size: 12px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003797}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003796}}
 #sponsor-landing .pane-sponsorship-level-tag-panel-pane-1 .view-header {
   clear: both; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003804}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003803}}
 .sponsor-detail-page img {
   width: 100%;
   height: auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003808}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003807}}
 .sponsor-detail-page .region-two-33-66-second {
   background: #fff;
   padding: 20px;
@@ -1590,7 +1590,7 @@ iframe {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003814}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003813}}
 .sponsor-detail-page .pane-sponsorship-level-tag ul {
   -webkit-margin-before: 0;
   -webkit-margin-after: 0;
@@ -1603,24 +1603,24 @@ iframe {
   -moz-margin-end: 0px;
   -moz-padding-start: 0px;
   list-style-type: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003826}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003825}}
   .sponsor-detail-page .pane-sponsorship-level-tag ul li {
     width: 50%;
     float: left; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003829}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003828}}
     .sponsor-detail-page .pane-sponsorship-level-tag ul li .field-content {
       padding: 20px; }
     @media (min-width: 44em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003826}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003825}}
       .sponsor-detail-page .pane-sponsorship-level-tag ul li {
         width: 25%;
         display: block; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003843}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003842}}
 .node-type-session .at-panel,
 .page-user .at-panel {
   margin-top: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003846}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003845}}
 .node-type-session .region-two-33-66-first,
 .page-user .region-two-33-66-first {
   background: #fff;
@@ -1630,7 +1630,70 @@ iframe {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003850}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003849}}
   .node-type-session .region-two-33-66-first .pane-title,
   .page-user .region-two-33-66-first .pane-title {
     text-transform: uppercase; }
+
+@media (min-width: 70em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003858}}
+  .webform-component-textfield {
+    width: 50%;
+    float: left;
+    padding: 0 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003862}}
+    .webform-component-textfield label {
+      float: left; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003865}}
+    .webform-component-textfield .form-control {
+      width: 50%;
+      float: right; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003870}}
+  .webform-component-textarea {
+    clear: both; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003872}}
+    .webform-component-textarea label {
+      float: left;
+      padding: 0 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003877}}
+  .btn-primary {
+    clear: both;
+    display: table;
+    float: right;
+    width: 300px;
+    text-align: center; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003886}}
+.grippie {
+  display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003891}}
+.not-logged-in.page-user #content {
+  width: 50%;
+  margin: 20px auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003898}}
+.not-logged-in.page-user- #content {
+  width: 96%;
+  margin: 20px auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003906}}
+#user-pass,
+#user-login,
+#user-register-form {
+  background: #dfdfdf;
+  padding: 20px;
+  -webkit-box-shadow: 2px 2px 10px #707070;
+  -moz-box-shadow: 2px 2px 10px #707070;
+  box-shadow: 2px 2px 10px #707070;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003911}}
+  #user-pass label,
+  #user-login label,
+  #user-register-form label {
+    color: #000; }

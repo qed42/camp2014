@@ -850,5 +850,65 @@ iframe{
 			text-transform: uppercase;
 		}
 	}
-	
+}
+
+
+
+@include at-breakpoint($desk){
+	.webform-component-textfield{
+		width:50%;
+		float: left;
+		padding: 0 10px;
+		label{
+			float: left;
+		}
+		.form-control {
+			width: 50%;
+			float:right;
+		}
+	}
+	.webform-component-textarea{
+		clear: both;
+		label{
+			float: left;
+			padding: 0 10px;
+		}
+	}
+	.btn-primary{
+		clear: both;
+		display: table;
+		float: right;
+		width: 300px;
+		text-align: center;
+	}
+}
+
+.grippie{
+	display: none;
+}
+
+.not-logged-in.page-user{
+	#content{
+		width: 50%;
+		margin : 20px auto;
+	}
+}
+
+.not-logged-in.page-user-{
+	#content{
+		width: 96%;
+		margin : 20px auto;
+	}
+}
+
+#user-pass,
+#user-login,
+#user-register-form{
+	background: #dfdfdf;
+	padding: 20px;
+	@include box-shadow(2px,2px ,10px ,$text-light-black, false);
+	@include rounded(10px);
+	label {
+		color:#000;
+	}
 }
