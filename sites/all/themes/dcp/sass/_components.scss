@@ -857,17 +857,20 @@ iframe{
 @include at-breakpoint($desk){
 	.webform-component-textfield{
 		width:50%;
-		float: left;
+		margin: 10px;
 		padding: 0 10px;
 		label{
 			float: left;
+			clear: right;
 		}
 		.form-control {
-			width: 50%;
+			width: 65%;
 			float:right;
+			margin-bottom:5px;
 		}
 	}
 	.webform-component-textarea{
+		width:50%;
 		clear: both;
 		label{
 			float: left;
@@ -877,7 +880,6 @@ iframe{
 	.btn-primary{
 		clear: both;
 		display: table;
-		float: right;
 		width: 300px;
 		text-align: center;
 	}
