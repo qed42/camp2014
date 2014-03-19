@@ -800,14 +800,29 @@ iframe{
 }
 
 .sponsor-detail-page {
+	#sponsor-detail-page{
+		background: #fff;
+		padding: 20px;
+		@include rounded(5px);
+	}
 	img{
 		width: 100%;
 		height: auto;
 	}
 	.region-two-33-66-second{
-		background: #fff;
-		padding: 20px;
-		@include rounded(5px);
+
+	}
+	.pane-node-field-sponsor-logo{
+		img{
+			width: auto;
+			margin-right: 20px;
+			float: left;
+		}
+	}
+	.pane-node-field-sponsor-body{
+		p{
+			margin-top:0;
+		}
 	}
 	.pane-sponsorship-level-tag{
 		ul{
@@ -920,5 +935,11 @@ iframe{
 	@include rounded(10px);
 	label {
 		color:#000;
+	}
+}
+
+.view-id-cod_sponsors{
+	table{
+		width:100%;
 	}
 }
