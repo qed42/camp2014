@@ -1746,3 +1746,11 @@ iframe {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003965}}
 .view-id-cod_sponsors table {
   width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003971}}
+.pane-sponsorship-level-tag-panel-pane-1 .view-content {
+  padding: 20px;
+  background: #fff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003974}}
+  .pane-sponsorship-level-tag-panel-pane-1 .view-content table.views-view-grid {
+    width: 100%; }
