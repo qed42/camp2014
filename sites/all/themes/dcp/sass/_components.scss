@@ -696,6 +696,40 @@ iframe{
 	}
 }
 
+.view-id-organiser{
+	.views-field-picture{
+		height: 120px;
+		width:120px;
+		overflow: hidden;
+		background: #ccc;
+		img {
+			width:100%;
+			height: auto;
+		}
+	}
+	.views-field-name,
+	.views-field-name a{
+		text-transform: uppercase;
+		font-style: normal;
+		letter-spacing: 1px;
+		font-size: 10px;
+		color: red;
+	}
+	table{
+		margin-top:20px;
+	}
+	thead{
+		background: #000;
+		color: #fff;
+	}
+	.odd{
+		background-color: #F9F9F9;
+	}
+	.even {
+		background-color: #ffffff;
+	}
+}
+
 #sponsor-landing{
 	.pane-1{
 		.pane-title a{
