@@ -685,7 +685,8 @@ iframe{
 			font-size: 10px;
 			color: red;
 		}
-		.views-field-rid{
+		.views-field-field-bio{
+
 		}
 		@include at-breakpoint($tab){
 			width: 25%;
@@ -701,11 +702,13 @@ iframe{
 		height: 120px;
 		width:120px;
 		overflow: hidden;
-		background: #ccc;
 		img {
 			width:100%;
 			height: auto;
 		}
+	}
+	th.views-field-picture{
+		height:auto;
 	}
 	.views-field-name,
 	.views-field-name a{
