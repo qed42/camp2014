@@ -668,17 +668,23 @@ iframe{
 		.views-field-picture{
 			padding-right: 10px;
 			float: left;
+			height: 120px;
+			width:120px;
+			overflow: hidden;
+			img {
+				width:100%;
+				height: auto;
+			}
 		}
-		.views-field-name{
-			font-size: 18px;
-			color: $black;
-		}
-		.views-field-rid{
+		.views-field-name,
+		.views-field-name a{
 			text-transform: uppercase;
 			font-style: normal;
 			letter-spacing: 1px;
 			font-size: 10px;
 			color: red;
+		}
+		.views-field-rid{
 		}
 		@include at-breakpoint($tab){
 			width: 25%;
