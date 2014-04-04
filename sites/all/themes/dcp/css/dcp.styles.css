@@ -1429,22 +1429,22 @@ iframe {
       color: #1c8fc5; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003662}}
-.view-id-organiser .views-row {
+.view-id-friend_of_drupal .views-row {
   clear: both;
   width: 100%;
   text-align: center;
   margin: 10px 0;
   padding: 10px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003668}}
-  .view-id-organiser .views-row .views-field-picture {
+  .view-id-friend_of_drupal .views-row .views-field-picture {
     padding-right: 10px;
     float: left; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003672}}
-  .view-id-organiser .views-row .views-field-name {
+  .view-id-friend_of_drupal .views-row .views-field-name {
     font-size: 18px;
     color: black; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003676}}
-  .view-id-organiser .views-row .views-field-rid {
+  .view-id-friend_of_drupal .views-row .views-field-rid {
     text-transform: uppercase;
     font-style: normal;
     letter-spacing: 1px;
@@ -1452,7 +1452,7 @@ iframe {
     color: red; }
   @media (min-width: 44em) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003662}}
-    .view-id-organiser .views-row {
+    .view-id-friend_of_drupal .views-row {
       width: 25%;
       float: left;
       text-align: left;
