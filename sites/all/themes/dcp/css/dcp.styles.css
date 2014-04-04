@@ -1437,7 +1437,7 @@ iframe {
   padding: 10px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/camp2014_stage\/sites\/all\/themes\/dcp\/sass\/_components\.scss}line{font-family:\00003668}}
   .view-id-friend_of_drupal .views-row .views-field-picture {
-    padding-right: 10px;
+    margin-right: 10px;
     float: left;
     height: 120px;
     width: 120px;
